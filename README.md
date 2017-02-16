@@ -1,11 +1,124 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
+
+*Steve Job*
+
+-------
+
+> 640K ought to be enough for anybody
+
+*Bill Gates*
+
+-------
+
+> Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
+
+*Bender*
+
+-------
+
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything.
+
+*Hunter Hayes*
+
+-------
+
+
+> Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+------
+
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+-------
+
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything. 
+
+*Hunter Hayes*
+
+-------
+
+> The biggest issue on software team is making sure everyone understands what everyone else is doing.
+
+-------
+
+> –¡Cuenta con mi espada! –¡Cuenta con mi arco! –¡Cuenta con mi hacha! –¡CUENTA NARANJA! –No, Ing Direct, tú no vienes.
+
+*Gandalf El Gris*
+
+-------
+
+> Ninguna gráfica podría renderizar al 100% tu perfecta figura.
+
+*Adolfo de la Rosa, Tomada de http://www.frases1000.com/*
+
+-------
+
+> Un friki es un tipo que sabe que la normalidad es una estafa.
+
+*José Antonio Maldonado*
+
+-------
+
+> for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
+
+*El comico suicida*
+
+-------
+
+> The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
+
+*XKDC Comic Compiling*
+
+-------
+
+> Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
+
+*Roy Batty*
+
+-------
+
+> Truth can only be found in one place: the code.
+
+*Robert C. Martin*
+
+-------
+
+>Eres mas perfecta que Célula después de absorber a A-18
+
+*Son Goku*
+
+-------
+
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
+
+*Autor desconocido*
+
+-------
+
+> Always remember that you are absolutely unique. Just like everyone else.
+
+*Margaret Mead*
+
+------
+
+> The Next Code is the only one that matters... Keep Coding!
+
+*Jhonnie Coder*
+
+-------
+
+> Con Larry Plotter aprendí Git.
+
+*Jose Javier Montes*
 
 -------
 
@@ -15,12 +128,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Si buscas resultados distintos, no hagas siempre lo mismo. 
+> Si buscas resultados distintos, no hagas siempre lo mismo.
 
 *Albert Einstein*
 
 -------
 
+>Amigo programador, puedes cometer muchos fallos... pero nunca nunca nunca olvides el WHERE en el DELETE FROM
+
+*Un tipo muy sabio*
+
+-------
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
 
 *Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
@@ -33,9 +151,45 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.
+
+*Richard Stallman*
+
+------
+
+> Hombre que poder cazar mosca con palillos consigue lo que quiere.
+
+*Sr. Miyagi*
+
+-------
+
+> Siempre que te pregunten si puedes hacer un trabajo, contesta que sí y ponte enseguida a aprender como se hace.
+
+*Franklin D. Roosevelt*
+
+-------
+
+> 404 happens...
+
+*Once upon a time, a SEO*
+
+-------
+
 > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.
 
 *Rich Cookies*
+
+-------
+
+> ¡Me estoy 42! ("42 en francés xD")
+
+*Peter Griffin*
+
+-------
+
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+
+*Edsger Dijkstra*
 
 -------
 
@@ -69,9 +223,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> A quien buen **SourceTree** se arrima, buenos *commits* le cobijan.
+> El **software es como el sexo**, es mejor cuando es libre.
 
-*Paco Cardenal*
+*Linus Torvalds*
+
+-------
+
+> Yo tengo mucho **glamour**, me perfumo el commit con **Ambipur**
+
+*Carmen de Mairena*
+
+-------
+
+> ¡El correo electrónico ha sido devuelto al remitente! – voltaje insuficiente
+
+*Chabelo*
 
 -------
 
@@ -87,6 +253,30 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tres pequeñas frases que te ayudarán a lo largo de tu vida: 1) ¡Cúbreme!, 2) ¡Buena idea jefe!, 3) Estaba así cuando llegué.
+
+*Homer J. Simpson*
+
+-------
+
+> It is 30 minutes away, I will be there in 10.
+
+*Mr Wolf (Pulp Fiction)*
+
+-------
+
+> ¿Cada cuantos años hay que llevar el DeLorean a que pase la ITV?
+
+*Frase friki*
+
+------
+
+> Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+-------
+
 > “¿Dónde está la tecla ‘ANY’?”
 
 *Homer Simpson, frente a un mensaje “press any key”*
@@ -94,6 +284,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
+
+*Eric Allman*
 
 -------
 
@@ -113,21 +305,25 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Theodore Roosevelt*
 
+-------
 
-*Eric Allman*
+> Por el alcohol! Causa y al mismo tiempo solución a todos nuestros problemas!
+
+*Homer J. Simpson*
 
 -------
 
 > Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
 
 *Douglas Adams*
+
 -------
 
 > Intenté conquistar a una programadora, pero no se deJava.
 
 *Programador C#*
 
----
+-------
 
 > Se esta muriendo gente que antes no se habia muerto...
 
@@ -165,7 +361,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-A quien madruga una taza de Java le ayuda!
+>A quien madruga una taza de Java le ayuda!
 
 *Nesspreso*
 
@@ -208,15 +404,34 @@ A quien madruga una taza de Java le ayuda!
 *Google Chrome*
 
 -------
+
 > "Codifica siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives"
 
 *Martin Golding*
 
 -------
 
+>Penny, todo es mejor con bluetooth.
+
+*Sheldon Cooper*
+
+-------
+
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
+
+-------
+
+> La blasfemia es el unico lenguaje que de verdad conocen todos los programadores.
+
+*Virgulilla Atormentada*
+
+-------
+
+> “La luz que brilla con el doble de intensidad dura la mitad de tiempo, y tu has brillado mucho, Roy.”
+
+*Blade Runner*
 
 -------
 
@@ -350,7 +565,7 @@ Segmentation fault [core dumped]
 
 -------
 
-I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
+>I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
 
 *Elena Nito Del Bosque*
 
@@ -371,6 +586,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 *Martin Fowler*
+
+-------
+
+> "Si intentas matar al rey, no falles."
+
+*Omar Little*
 
 -------
 
@@ -425,6 +646,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *[Sergio Montoro Ten (Porqué la gente odia a los programadores)](http://versioncero.juanjonavarro.com/articulo/554/porque-la-gente-odia-a-los-programadores "Porqué la gente odia a los programadores")*
 
+------
+
 > Dios es real, a menos que se declare como entero
 
 *Oido por ahí*
@@ -452,6 +675,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 *Buzz Lightyear*
 
 -------
+
 > El abrirá el portal y desencadenará el fin del mundo
 
 *Hellboy*
@@ -494,6 +718,14 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 -------
 
+```bash
+A strange game. The only winning move is not to play. How about a nice game of chess?
+```
+
+*Joshua*
+
+-------
+
 > Todo el mundo es bueno hasta que deja de serlo. Nunca pasa nada hasta que pasa.
 
 *mi esposa*
@@ -530,6 +762,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 -------
 
 > Bienvenido a 127.0.0.1
+
+*Anónimo*
 
 -------
 
@@ -572,6 +806,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo.
 
 *Manual de mantenimiento de IBM, año 1925*
+
+-------
+
+> Limpiar las gafas y pasar de TS-screener a FullHD 1080p.
+
+*Friki y miope*
 
 -------
 
@@ -734,3 +974,21 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > ¡Por las claves del cripto!
 
 *Ingeniero de la NSA al inventar el 3DES*
+
+-------
+
+> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
+
+*Bjork*
+
+-------
+
+> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
+
+*J. J. Abrams*
+
+-------
+
+> Quisiera ser un pendrive para tu USB
+
+*Mr.Robot*
